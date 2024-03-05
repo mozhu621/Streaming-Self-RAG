@@ -6,10 +6,3 @@ data/triviaqa_test_w_gs.jsonl
 data/triviaqa_test.jsonl
 eval_data/arc_challenge_processed.jsonl
 eval_data/asqa_eval_gtr_top100.json
-eval_data/health_claims_processed.jsonl
-eval_data/triviaqa_test_w_gs.jsonl
-eval_data/popqa_longtail.jsonl
-eval_data/popqa_longtail_w_gs.jsonl
-eval_data/triviaqa_test.jsonl
-eval_data/factscore_unlabeled_alpaca_13b_retrieval.jsonl
-retrieval_lm/wget-log
